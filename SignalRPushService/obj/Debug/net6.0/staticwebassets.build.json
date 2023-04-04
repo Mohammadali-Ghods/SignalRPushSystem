@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QxryxcMdrIxziqpHDzdRCaOC4QHwjyBmCJLU3GJhfPY=",
+  "Source": "SignalRPushService",
+  "BasePath": "_content/SignalRPushService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

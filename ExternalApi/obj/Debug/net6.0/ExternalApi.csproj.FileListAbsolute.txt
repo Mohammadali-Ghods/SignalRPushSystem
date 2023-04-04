@@ -1,0 +1,12 @@
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\bin\Debug\net6.0\ExternalApi.deps.json
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\bin\Debug\net6.0\ExternalApi.dll
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\bin\Debug\net6.0\ExternalApi.pdb
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\ExternalApi.csproj.AssemblyReference.cache
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\ExternalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\ExternalApi.AssemblyInfoInputs.cache
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\ExternalApi.AssemblyInfo.cs
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\ExternalApi.csproj.CoreCompileInputs.cache
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\ExternalApi.dll
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\refint\ExternalApi.dll
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\ExternalApi.pdb
+C:\Users\Unipoly\source\repos\signal-r\ExternalApi\obj\Debug\net6.0\ref\ExternalApi.dll

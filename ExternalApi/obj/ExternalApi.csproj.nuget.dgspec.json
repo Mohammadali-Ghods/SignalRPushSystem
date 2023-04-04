@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Unipoly\\source\\repos\\SignalRMongoWebAPI\\ExternalApi\\ExternalApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Unipoly\\source\\repos\\SignalRMongoWebAPI\\ExternalApi\\ExternalApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Unipoly\\source\\repos\\SignalRMongoWebAPI\\ExternalApi\\ExternalApi.csproj",
+        "projectName": "ExternalApi",
+        "projectPath": "C:\\Users\\Unipoly\\source\\repos\\SignalRMongoWebAPI\\ExternalApi\\ExternalApi.csproj",
+        "packagesPath": "C:\\Users\\Unipoly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Unipoly\\source\\repos\\SignalRMongoWebAPI\\ExternalApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Unipoly\\NuGet.Config",
+          "C:\\Users\\Unipoly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Unipoly\\Desktop\\publishcsharp": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://buget.diffancy.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
